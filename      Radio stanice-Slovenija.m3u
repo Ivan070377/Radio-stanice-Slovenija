@@ -1,0 +1,63 @@
+#EXTM3U
+#EXTINF:-1,Hit radio Antena-Ljubljana-Slovenija
+https://live.radio.si/Antena
+#EXTINF:-1,Hit radio center-Slovenija
+http://stream3.radiocenter.si:8000/center
+#EXTINF:-1,Koroški radio 97.2-Slovenj Gradec
+http://sc.sgn.net:8300/;stream.mp3
+#EXTINF:-1,ORF Slovenski spored-Koroška
+https://ors-sn03.ors-shoutcast.at/slo-q2a.m3u
+#EXTINF:-1,Odprti radio-Slovenia
+https://zvok.ragla.si/ord
+#EXTINF:-1,Primorski val - Radio Odmev in Alpski val-Slovenia
+http://live.primorskival.si:8000/stream.m3u
+#EXTINF:-1,RTV Slovenija ARS
+http://mp3.rtvslo.si/ars.m3u
+#EXTINF:-1,RTV Slovenija-Radio Koper
+http://mp3.rtvslo.si/rakp.m3u
+#EXTINF:-1,RTV Slovenija-Radio SI
+http://mp3.rtvslo.si/rsi.m3u
+#EXTINF:-1,RTV Slovenija-Radio prvi
+http://mp3.rtvslo.si/ra1.m3u
+#EXTINF:-1,RTV Slovenija-Val 202
+http://mp3.rtvslo.si/val202.m3u
+#EXTINF:-1,Radio 1-Slovenija
+https://live.radio.si/Radio1.m3u
+#EXTINF:-1,Radio 2 - Ljubljana 92.6 FM_Slovenia
+https://live.radio.si/Radio2.m3u
+#EXTINF:-1,Radio 94-Postojna_Slovenia
+http://193.77.35.107:8443/radio94
+#EXTINF:-1,Radio Aktual-Slovenija
+https://live.radio.si/Aktual.m3u
+#EXTINF:-1,Radio BOB 87.6 FM-Ljubljana_Slovenija
+https://live.radio.si/BOB.m3u
+#EXTINF:-1,Radio City - 99.5 in 100.8 FM-Slovenia
+https://stream1.radiocity.si/CityMp3128.mp3
+#EXTINF:-1,Radio Ekspress - Slovenija
+https://stream.nextmedia.si/proxy/ekspres1?mp=/stream
+#EXTINF:-1,Radio Krka 106.6 FM-Novo Mesto_Slovenija
+https://live.radio.si/Krka.m3u
+#EXTINF:-1,Radio Murski val - Murska Sobota_Slovenija
+https://live.radio.si/murskival
+#EXTINF:-1,Radio Net 99.8 in 100.2-Maribor_Slovenija
+http://reflector.radionet.si:8000/radionetlive.ogg
+#EXTINF:-1,Radio Ognjišče-Slovenija
+https://live.radio.si/ognjisce.mp3
+#EXTINF:-1,Radio Ptuj-Slovenija
+https://live.radio.si/Ptuj.m3u
+#EXTINF:-1,Radio Robin-Slovenija
+https://live.radio.si/Robin
+#EXTINF:-1,Radio Sora - Škofja Loka_Slovenija
+http://radio-sora.si:8000/radio-sora.mp3
+#EXTINF:-1,Radio Sraka-Novo Mesto_Slovenia
+https://sraka.siradiostream.net/
+#EXTINF:-1,Radio Triglav-Jesenice_Slovenija
+https://live.radio.si/Triglav.m3u
+#EXTINF:-1,Radio Velenje 107.8-Slovenija
+http://212.18.39.42:8000/radiovelenje.mp3
+#EXTINF:-1,Radio Veseljak - Slovenija
+https://live.radio.si/Veseljak.m3u
+#EXTINF:-1,Radio Študent-Ljubljana_Slovenia
+https://kruljo.radiostudent.si:8001/hiq
+#EXTINF:-1,Rock radio-Slovenija
+http://stream.rockradio.si:9034/;stream/1
